@@ -48,28 +48,18 @@
 <br>
 
 <p align="center">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/html5-logo-png-transparent.png" height=50 hspace=20>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/730px-CSS.3.svg.png" height=50 hspace=20>
-    <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" height=45 hspace=20>
-    <img src="https://github.com/Yash-Ray/YashRay/blob/main/assets/bootstrap.png" height=52 hspace=20>
+  <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <br />
+<img src="https://img.shields.io/badge/-JSP-de6c1e?style=flat" > <img src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white" > <br />
+<img src="https://img.shields.io/badge/-django-black?style=flat&logo=django"> <img src="https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/-React-161616?style=flat&logo=react&logoColor=00d9ff"> <br/>
+<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Java 8-06305b?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> <br />
+<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> <br />
+<img src="https://img.shields.io/badge/-Android-black?style=flat&logo=android"> <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> <br />
+<img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat"> <img src="https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=5b8cc4"> <br />
+<img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">  
     
 </p>
-<p align="center">
-    <img src="https://github.com/Yash-Ray/YashRay/blob/main/assets/cpp.png" height=40 hspace=20>
-    <img src="https://github.com/Yash-Ray/YashRay/blob/main/assets/python.png" height=40 hspace=20>
-    <img src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" height=55 hspace=20>
-    <img src="https://github.com/Yash-Ray/YashRay/blob/main/assets/jupyter.png" height=45 hspace=20>
-</p>
-<p align="center">
-    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" height=40 hspace=20 vspace=5>
-    <img src="https://miro.medium.com/max/325/0*tTvqxZBtyiDw3vVw.png" height=40 hspace=20 vspace=5>
-    <img src="https://github.com/Yash-Ray/Yash-Ray/blob/main/assets/Jquery.png?raw=true" height=50 hspace=15 vpsace=5>
-    <img src="https://github.com/Yash-Ray/Yash-Ray/blob/main/assets/react.png?raw=true" height=50 hspace=10 vspace=5>
-</p>
-<p align="center">
-    <img src="https://github.com/Yash-Ray/Yash-Ray/blob/main/assets/highcharts.png?raw=true" height=50 hspace=20 vspace=5>
-    <img src="https://github.com/Yash-Ray/Yash-Ray/blob/main/assets/anime.png?raw=true" height=50 hspace=20 vpsace=5>
-</p>
+
+
 <br>
 <br>
 <h2 align="center">
