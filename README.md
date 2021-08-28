@@ -6,19 +6,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mayank-anand-060289174/">
-    <img src="https://github.com/Yash-Ray/YashRay/blob/main/assets/linkedin.png" width="50" height="50" hspace="20">
+    <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="50" height="50" hspace="20">
   </a>
 
   <a href="mailto:mayankrajanand2001@gmail.com">
-    <img src="https://github.com/Yash-Ray/YashRay/blob/main/assets/mail.png" width="50" height="50" hspace="20">
+    <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="50" height="50" hspace="20">
   </a>
 
   <a href="https://www.instagram.com/mayank2.1">
     <img src="https://github.com/Yash-Ray/YashRay/blob/main/assets/instagram.png" width="50" height="50" hspace="20">
   </a>
 
-  <a href="https://github.com/MayankRajAnand">
-    <img src="https://github.com/Yash-Ray/YashRay/blob/main/assets/github.png" width="50" height="50" hspace="20">
+  <a href="https://twitter.com/mayank2.1">
+    <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/twitter.svg" width="50" height="50" hspace="20">
   </a>
 </p>
 
