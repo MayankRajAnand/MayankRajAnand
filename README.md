@@ -28,7 +28,7 @@
 
 <p align="center">
   <code>
-      Hi There. I'm Mayank Raj Anand, ,currently I am a sophormore pursuing Btech from <strong>VIT vellore</strong> in <strong>CSE</strong> Core . Solving problems whether its technical or people's has always been my source of satisfaction. I'm a <strong>Front-End Web-Developer</strong> who loves to try out new things.I have determined myself to learn the skill ,technology ,gain knowledge to my maximum potential and explore various other domains and be a better version of myself. With a passion for Technology, I always look forward to oppurtunities to innovate and create.
+      Hi There. I'm Mayank currently Software Developer at Oracle. Solving problems whether its technical or people's has always been my source of satisfaction. I'm a Full stack Developer and Devops Enthusiast who loves to try out new things. With a passion for Technology, I always look forward to oppurtunities to innovate and create.
   </code>
 </p>
 
@@ -48,7 +48,7 @@
 <br>
 
 <p align="center">
-  <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <br />
+  <img src = "https://img.shields.io/badge/-HTML6-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <br />
 <img src="https://img.shields.io/badge/-JSP-de6c1e?style=flat" > <img src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white" > <br />
  <img src="https://img.shields.io/badge/-React-161616?style=flat&logo=react&logoColor=00d9ff"> <br/>
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Java 8-06305b?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> <br />
