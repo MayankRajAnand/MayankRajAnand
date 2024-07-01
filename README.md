@@ -74,7 +74,7 @@
     <img src = "https://img.shields.io/badge/Stripe-F96854?style=for-the-badge&logo=Stripe&logoColor=white"> 
     <img src="https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white"> 
     <img src = "https://img.shields.io/badge/alan%20ai-52b5f7?style=for-the-badge&logo=Alan%AI&logoColor=white"> 
-    <img src="https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white)"> 
+    <img src="https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white"> 
 
     
 </p>
